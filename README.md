@@ -32,4 +32,13 @@ and recall
 
 ![image](https://user-images.githubusercontent.com/91651103/225902858-bae60ed1-ac5c-4f4e-88fa-14cc85907021.png)
 
+----------------------------------------------------------------------------------------------------------------
+
+### ✨ I just wanted to take a moment to express my gratitude to all the contributers to this project ✨.
+
+<a href="https://github.com/nitinsaimajji/voice1/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nitinsaimajji/voice1" />
+</a>
+
+
  
