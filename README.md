@@ -6,7 +6,7 @@
 --------------------------------------------------------------------------------------
 ### Description : 
 
-This paper proposes a deep learning-based
+This Project proposes a deep learning-based
 approach for gender recognition using voice, which 
 involves extracting features from audio recordings and
 training a deep neural network to predict the corresponding 
