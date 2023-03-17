@@ -12,7 +12,8 @@ DESCRIPTION :
 
 #### Secondly,extracting features from the wav files using librosa module in python.
 
-#### Finally ,Deep learning models such as MLP,CNN,AlexNet,VGGNet-16 have been trained with the dataset [(dataset 1  in the repository contains wav files.)].
+#### Finally ,Deep learning models such as MLP,CNN,AlexNet,VGGNet-16 have been trained with the dataset
+[(dataset 1  in the repository contains wav files)].
 
 #### Results :
 
