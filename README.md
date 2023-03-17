@@ -3,7 +3,14 @@
 
 #### Dataset link : https://www.kaggle.com/datasets/mozillaorg/common-voice
 
-DESCRIPTION :
+DESCRIPTION :  This paper proposes a deep learning-based
+               approach for gender recognition using voice, which 
+               involves extracting features from audio recordings and
+               training a deep neural network to predict the corresponding 
+               gender.We use a dataset of audio recordings of 
+               male and female voices and evaluate our approach on several metrics such as accuracy, precision, 
+               and recall
+              
 
 #### Firstly,converting mp3 to wav files .[(dataset 1  in the repository contains wav files)].
 
