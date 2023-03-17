@@ -34,7 +34,7 @@ and recall
 
 ----------------------------------------------------------------------------------------------------------------
 
-### ✨ I just wanted to take a moment to express my gratitude to all the contributers to this project ✨.
+### ✨ I just wanted to take a moment to express my gratitude to all the contributers ✨.
 
 <a href="https://github.com/nitinsaimajji/gender-recog-voice/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nitinsaimajji/gender-recog-voice" />
