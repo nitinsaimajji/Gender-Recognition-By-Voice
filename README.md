@@ -1,3 +1,3 @@
 
 voice1
-# Gender detection by voice.
+# Gender recognition by voice.
