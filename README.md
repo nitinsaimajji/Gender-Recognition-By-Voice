@@ -2,7 +2,6 @@
 # Gender recognition by voice.
 ----------------------------------------------------------------------------------
 #### Dataset link : https://www.kaggle.com/datasets/mozillaorg/common-voice
-#### GitHub Link : https://github.com/nitinsaimajji/voice1/
 --------------------------------------------------------------------------------------
 ### Description : 
 
@@ -34,12 +33,7 @@ and recall
 
 ----------------------------------------------------------------------------------------------------------------
 
-### ✨Contributers ✨.
-
-#### BL.EN.U4CSE20092      Nitin Sai
-#### BL.EN.U4CSE20109      Siva Sai
-#### BL.EN.U4CSE20114      Leeladhar 
-#### BL.EN.U4CSE20120      Sri Harsha
+### ✨ Thanks to all the Contributers ✨.
 
 <a href="https://github.com/nitinsaimajji/gender-recog-voice/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nitinsaimajji/gender-recog-voice" />
